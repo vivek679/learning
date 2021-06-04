@@ -1,0 +1,13 @@
+A strongly-typed programming language is one in which each type of data 
+(such as integer, character, hexadecimal, packed decimal, and so forth) 
+is predefined as part of the programming language and all constants or 
+variables defined for a given program must be described with one of the data types.
+
+Strongly typed languages
+A strongly-typed language is one in which variables are bound to specific data types, 
+and will result in type errors if types do not match up as expected in the expression — regardless of when type checking occurs.
+Python is strong-typed, and so is Java.
+	Python Example
+	temp = “Hello World!”
+	temp = temp + 10; // program terminates with below stated error
+
